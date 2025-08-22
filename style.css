@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    background-color: rgb(52, 52, 52);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Montserrat", Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background: white;
+    margin: auto;
+    width: auto;
+    height: 100vh;
+    width: 60vW;
+}
+header{
+    height: 20vh;
+    background-color: rgb(189, 0, 0);
+    color: #E7E7E7;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.logo{
+    height: 100%;
+    margin-right: 100px;
+}
+.menu {
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    list-style: none;      /* убираем маркеры списка */
+    padding: 0;
+    margin: 0;
+    display: flex;         /* элементы в одну строку */
+    gap: 20px;             /* расстояние между пунктами */
+  }
+  
+  .menu li a {
+    text-decoration: none; /* убираем подчёркивание */
+    color: white;          /* белый цвет ссылок */
+    font-size: 16px;       /* размер шрифта */
+    transition: color 0.3s ease;
+  }
+  
+  .menu li a:hover {
+    color: #ddd;           /* лёгкий серый при наведении */
+  }
+
+  footer{
+    height: 20vh;
+    background-color: rgb(189, 0, 0);
+    color: #E7E7E7;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
