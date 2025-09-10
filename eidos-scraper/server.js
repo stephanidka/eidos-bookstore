@@ -43,6 +43,7 @@ app.get("/api/books", async (req, res) => {
     await browser.close();
 
     // Теперь для каждой книги качаем настоящую фотку
+// Теперь для каждой книги качаем настоящую фотку
 const booksWithPhotos = await Promise.all(
   books.map(async book => {
     let photoLink = "";
@@ -51,13 +52,14 @@ const booksWithPhotos = await Promise.all(
         const photoPage = await fetch(book.photoHref);
         const photoHtml = await photoPage.text();
         const $ = cheerio.load(photoHtml);
-        const imgEl = $("img"); // на странице обычно одна фотка
-        if (imgEl.length > 0) {
-          let src = imgEl.attr("src");
-          if (src && src.startsWith("/")) {
-            src = "https://www.alib.ru" + src;
+
+        // Ищем редирект <meta http-equiv="Refresh">
+        const meta = $("meta[http-equiv='Refresh']").attr("content");
+        if (meta) {
+          const match = meta.match(/URL=(.+)$/i);
+          if (match) {
+            photoLink = match[1];
           }
-          photoLink = src;
         }
       } catch (e) {
         console.error("Не смогли вытащить фотку:", e.message);
