@@ -9,6 +9,10 @@ const PORT = 8000;
 
 app.use(express.static(".."));
 
+function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 // Эндпоинт API
 app.get("/api/books", async (req, res) => {
   try {
@@ -44,21 +48,29 @@ app.get("/api/books", async (req, res) => {
 
     // Теперь для каждой книги качаем настоящую фотку
 // Теперь для каждой книги качаем настоящую фотку
+// --- заменяем этот блок в server.js ---
 const booksWithPhotos = await Promise.all(
-  books.map(async book => {
+  books.map((book, idx) => (async () => {
     let photoLink = "";
     if (book.photoHref) {
       try {
+        // Задержка перед запросом — чем больше N, тем медленнее (мс)
+        await delay(idx * 500); // <-- тут можно поменять 500 на 300/400/1000 и т.д.
+
         const photoPage = await fetch(book.photoHref);
         const photoHtml = await photoPage.text();
         const $ = cheerio.load(photoHtml);
+
+        // сохраняем лог как было
+        console.log("=== FOTO PAGE HTML ===");
+        console.log(photoHtml.slice(0, 500)); // первые 500 символов
 
         // Ищем редирект <meta http-equiv="Refresh">
         const meta = $("meta[http-equiv='Refresh']").attr("content");
         if (meta) {
           const match = meta.match(/URL=(.+)$/i);
           if (match) {
-            photoLink = match[1];
+            photoLink = match[1].trim();
           }
         }
       } catch (e) {
@@ -66,8 +78,9 @@ const booksWithPhotos = await Promise.all(
       }
     }
     return { ...book, photoLink };
-  })
+  })())
 );
+
 
     res.json({ books: booksWithPhotos });
   } catch (err) {
