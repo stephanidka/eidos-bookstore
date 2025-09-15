@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+  
 
     background-color: rgb(52, 52, 52);
     display: flex;
@@ -16,21 +17,37 @@ body{
     background: white;
     margin: auto;
     width: auto;
-    height: 100vh;
-    width: 60vW;
+    height: 100%;
+    width: 70vW;
 }
+
 header{
-    height: 20vh;
+    height: 25vh;
     background-color: rgb(189, 0, 0);
     color: #E7E7E7;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
 }
+
 .logo{
-    height: 100%;
-    margin-right: 100px;
+    width: 8vw;
 }
+.header_bookinist{
+  display: flex;
+  flex-direction: row;
+  height: 20vh;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.bookinist{
+  margin-top: 30px;
+  margin-left: 15px;
+  width: 30vw;
+
+}
+
 .menu {
     font-family: 'Montserrat', Helvetica, sans-serif;
     list-style: none;      /* убираем маркеры списка */
@@ -46,6 +63,9 @@ header{
     font-size: 16px;       /* размер шрифта */
     transition: color 0.3s ease;
   }
+  .menu_svg{
+    height: 3vh;
+  }
   
   .menu li a:hover {
     color: #ddd;           /* лёгкий серый при наведении */
@@ -59,3 +79,48 @@ header{
     flex-direction: row;
     align-items: center;
 }
+
+  #catalog {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+  .book-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    background: #fafafa;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  .book-card img {
+    max-width: 100%;
+    max-height: 250px;
+    object-fit: contain;
+    margin-bottom: 10px;
+  }
+  .book-card h3 {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  .price {
+    font-weight: bold;
+    color: darkgreen;
+    margin: 8px 0;
+  }
+  .buy-btn {
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 6px;
+    background: #0077cc;
+    color: #fff;
+    text-decoration: none;
+  }
+  .buy-btn:hover {
+    background: #005fa3;
+  }
+  .no-buy {
+    color: #999;
+    font-style: italic;
+  }
