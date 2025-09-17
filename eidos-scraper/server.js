@@ -47,8 +47,7 @@ app.get("/api/books", async (req, res) => {
     await browser.close();
 
     // Теперь для каждой книги качаем настоящую фотку
-// Теперь для каждой книги качаем настоящую фотку
-// --- заменяем этот блок в server.js ---
+
 const booksWithPhotos = await Promise.all(
   books.map((book, idx) => (async () => {
     let photoLink = "";

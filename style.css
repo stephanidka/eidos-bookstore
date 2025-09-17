@@ -2,8 +2,6 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  
-
     background-color: rgb(52, 52, 52);
     display: flex;
     flex-direction: column;
@@ -22,7 +20,7 @@ body{
 }
 
 header{
-    height: 25vh;
+    height: 27vh;
     background-color: rgb(189, 0, 0);
     color: #E7E7E7;
     display: flex;
@@ -38,14 +36,13 @@ header{
   flex-direction: row;
   height: 20vh;
   align-items: center;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .bookinist{
   margin-top: 30px;
   margin-left: 15px;
   width: 30vw;
-
 }
 
 .menu {
@@ -55,29 +52,67 @@ header{
     margin: 0;
     display: flex;         /* элементы в одну строку */
     gap: 20px;             /* расстояние между пунктами */
+    margin-bottom: 15px;
   }
   
   .menu li a {
     text-decoration: none; /* убираем подчёркивание */
     color: white;          /* белый цвет ссылок */
-    font-size: 16px;       /* размер шрифта */
+    font-size: 20px;       /* размер шрифта */
     transition: color 0.3s ease;
-  }
-  .menu_svg{
-    height: 3vh;
+    
   }
   
   .menu li a:hover {
     color: #ddd;           /* лёгкий серый при наведении */
   }
+  main{
+    height: 100%;
+  }
+  .title{
+    color:  rgb(52, 52, 52);
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
 
+  } 
+  
   footer{
     height: 20vh;
     background-color: rgb(189, 0, 0);
     color: #E7E7E7;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
+    justify-content: center;
+}
+.alib_link{
+    text-decoration: none; /* убираем подчёркивание */
+    color: white;          /* белый цвет ссылок */
+    font-size: 20px; 
+    font-weight: bold;      /* размер шрифта */
+    transition: color 0.3s ease;
+    margin-left: 10px;
+}
+
+.VK_logo{
+  width: 26px;
+  margin-right: 10px;
+  transition: opacity 0.3s ease;
+}
+.footer_links{
+  margin-bottom: 15px;
+}
+.footer_links a.alib_link:hover {
+  color: #ddd; /* станет серым */
+}
+
+.VK_logo:hover{
+  filter: grayscale(100%);
+  opacity: 0.8;
 }
 
   #catalog {
@@ -123,4 +158,21 @@ header{
   .no-buy {
     color: #999;
     font-style: italic;
+  }.loader {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px; /* или 100vh если хочешь на весь экран */
+  }
+  
+  .loader img {
+    width: 50px; /* подгони под размер своей гифки */
+    height: auto;
+  }
+
+  .text{
+    margin: 30px;
   }
