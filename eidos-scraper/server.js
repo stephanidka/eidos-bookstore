@@ -22,8 +22,10 @@ app.get("/api/books", async (req, res) => {
     });
     const page = await browser.newPage();
     await page.goto("https://www.alib.ru/bsnewbook.php4?bs=eidos&new=7", {
-      waitUntil: "domcontentloaded"
+      waitUntil: "domcontentloaded",
+      timeout: 0
     });
+  
 
     // Вытаскиваем книги
     const books = await page.evaluate(() => {
