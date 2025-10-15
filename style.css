@@ -175,14 +175,25 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 200px; /* или 100vh если хочешь на весь экран */
+    height: 200px;
   }
   
   .loader img {
-    width: 50px; /* подгони под размер своей гифки */
+    width: 50px; 
     height: auto;
   }
 
   .text{
-    margin: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+  .big-bracket {
+    font-size: 2em; 
+    font-weight: bold;
+    line-height: 0.8;
+    margin-left: 10px;
+    margin-right: 10px;
   }

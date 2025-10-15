@@ -3,8 +3,7 @@ const catalog = document.getElementById("catalog");
 const currientYear = document.getElementById('currientYear')
 
 
-    currientYear.textContent = "город Владимир, 1999-" + new Date().getFullYear() + " ♥";
-    console.log("idite nahui")
+currientYear.textContent = "город Владимир, 1999-" + new Date().getFullYear() + " ♥";
 
 
 loader.style.display = "flex"; // показываем гифку
