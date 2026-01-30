@@ -8,6 +8,7 @@ import fs from "fs";
 const app = express();
 const PORT = 8000;
 const BOOKS_FILE = "./books.json";
+const CACHE_TTL = 30 * 60 * 1000; // 30 минут
 
 app.use(cors());
 app.use(express.static(".."));
@@ -25,6 +26,15 @@ function loadBooksFromFile() {
   }
 
   try {
+    const stats = fs.statSync(BOOKS_FILE);
+    const age = Date.now() - stats.mtimeMs;
+
+    if (age > CACHE_TTL) {
+      fs.unlinkSync(BOOKS_FILE);
+      console.log("books.json устарел (старше 30 минут), удаляем");
+      return null;
+    }
+
     const data = fs.readFileSync(BOOKS_FILE, "utf-8");
     const books = JSON.parse(data);
 
@@ -40,7 +50,6 @@ function loadBooksFromFile() {
     return null;
   }
 }
-
 function saveBooksToFile(books) {
   fs.writeFileSync(
     BOOKS_FILE,
