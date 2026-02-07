@@ -1,363 +1,207 @@
 [
   {
-    "title": "Китайская классическая поэзия.",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_kitajskaya_klassicheskaya_poqziya_w1t2798bf1b0dc5e6f5bc91d5543c9cf8bc75e5.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dffff365616b69676ff762606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Кованов В.В., Бомаш Ю.М. Практическое руководство по топографической анатомии.",
-    "price": "600 руб.",
-    "buyLink": "https://www.alib.ru/5_kovanov_v_v_bomash_yu_m_prakticheskoe_rukovodstvo_po_topograficheskoj_anatomii_w1t27984393bcf9ca26baa96d87642aaefd809b.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff667686d5e6d6f676265606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Белер Л. Техника лечения переломов костей.",
-    "price": "2700 руб.",
-    "buyLink": "https://www.alib.ru/5_beler_l_tehnika_lecheniya_perelomov_kostej_w1t27986a37cdfb1decf7d0e093112ad999cfd8.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff4646664696a6b686861606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Ежемесячные литературные приложения к журналу Нива на 1901 г. Полный комплект, три тома",
-    "price": "5000 руб.",
-    "buyLink": "https://www.alib.ru/5_ezhemesyachnye_literaturnye_prilozheniya_k_zhurnalu_niva_na_1901_g_polnyj_komplekt_tri_toma_w1t27986c0375ef50f3fe1c53ec8d45d0f97d65.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff268656e5b696b686861606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Археологические памятники Среднего Поднестровья.",
-    "price": "1000 руб.",
-    "buyLink": "https://www.alib.ru/5_arheologicheskie_pamyatniki_srednego_podnestrovnmnya_w1t2798a1155409c7458f20e41112c81a248ffe.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff66b666e586b6b636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Чудеса архитектуры. От 4000 г. до н.э. до наших дней",
-    "price": "1700 руб.",
-    "buyLink": "https://www.alib.ru/5_chudesa_arhitektury_ot_4000_g_do_n_q_do_nashih_dnej_w1t2798b3838436b8bdcb2a1cdec72082c51977.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff165646468696a636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Териология. В 2-х томах.",
-    "price": "2000 руб.",
-    "buyLink": "https://www.alib.ru/5_teriologiya_v_2_h_tomah_w1t2798bc1cc65a8b01786bf6b912a0c629b38f.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff063636ffc69676ff762606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Нечипоренко Юрий. Ярмарочный мальчик.",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_nechiporenko_yurij_yarmarochnyj_malnmnchik_w1t27989114e8eebc3578a42e5e6b2af846940d.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff16c65646c6a6e646463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Шедевры античного искусства из собрания Государственного музея изобразительных искусств имени А.С. Пушкина",
-    "price": "3000 руб.",
-    "buyLink": "https://www.alib.ru/5_shedevry_antichnogo_iskusstva_iz_sobraniya_gosudarstvennogo_muzeya_izobrazitelnmnnyh_iskusstv_im_w1t2798f3e4ef609b69f5f710948f2386769694.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff66761656e6568666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Двойникова Е.С., Лямин И.В. Художественная обработка дерева.",
-    "price": "650 руб.",
-    "buyLink": "https://www.alib.ru/5_dvojnikova_e_s_lyamin_i_v_hudozhestvennaya_obrabotka_dereva_w1t27985055837ffe131a3cedbeffe7f9a7c7a4.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff7656661676d6a636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Українські народні казки, легенди, анекдоти. Украинские народные сказки, легенды, анекдоты.",
-    "price": "2000 руб.",
-    "buyLink": "https://www.alib.ru/5_ukra_nsnmnk_narodn_kazki_legendi_anekdoti_ukrainskie_narodnye_skazki_legendy_anekdoty_w1t2798cfea8e06c40fb7a60acde9496b68deb1.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff566666e5d6d6f676265606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Джеймс Питер, Торп Ник. Тайны древних цивилизаций. Энциклопедия самых интригующих загадок прошлого",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_dzhejms_piter_torp_nik_tajny_drevnih_civilizacij_qnciklopediya_samyh_intriguyuwih_zagadok_proshlogo_w1t27986d08b52ffaef0ff41e00729c589d51b9.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff06b6ff56b69676ff762606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Путилов К.А. Курс физики т.т.1, 2, 3.",
+    "title": "Хайям Омар. О любви и смысле жизни.",
     "price": "1500 руб.",
-    "buyLink": "https://www.alib.ru/5_putilov_k_a_kurs_fiziki_t_t_1_2_3_w1t279858cc30ebae3391f14380ff854e11828c.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff26b656167666b636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
+    "buyLink": "https://www.alib.ru/5_hajyam_omar_o_lyubvi_i_smysle_zhizni_w1t2798e9dd1bcf0a769a710b6949c7c68f1fe6.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d3686ff2656261686d5e566f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
   },
   {
-    "title": "Словарь органических соединений. Строение, физические и химические свойства важнейших органических соединений и их производных. В трех томах.",
-    "price": "1500 руб.",
-    "buyLink": "https://www.alib.ru/5_slovarnmn_organicheskih_soedinenij_stroenie_fizicheskie_i_himicheskie_svojstva_vazhnejshih_orga_w1t279880138f279921f07dc13c062f3efb5c0c.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff164666d5a6a67666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Всемирная энциклопедия. Христианство.",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_vsemirnaya_qnciklopediya_hristianstvo_w1t2798aa2f8e8db899fd933f2dda4e7d7476fa.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff46462606d69676ff762606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Святополк-Мирский Р.  Пояс Богородицы.",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_svyatopolk_mirskij_r_poyas_bogorodicy_w1t27983900d144e7e1ba0cba96b6321c4552fb.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff666676d57656a676561606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Святополк-Мирский Роберт. Порубежная война.",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_svyatopolk_mirskij_robert_porubezhnaya_vojna_w1t279875d69e5b0e2ac1d9ad67720bb923eca8.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff7666863656867676561606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Богданов Андрей Петрович. Княгиня Ольга. Святая воительница",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_bogdanov_andrej_petrovich_knyaginya_olnmnga_svyataya_voitelnmnnica_w1t2798c8b5406389374abf2e1b159c4067939e.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff46c62656d6667676561606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Сказание о Благоверном Великом князе Александре Невском.",
-    "price": "1000 руб.",
-    "buyLink": "https://www.alib.ru/5_skazanie_o_blagovernom_velikom_knyaze_aleksandre_nevskom_w1t2798b17ec40276b01c157d06fc5290076bdc.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff666646d5c6567676561606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "История Отечества. 1150 лет Российской государственности. Иллюстрированное издание",
-    "price": "1500 руб.",
-    "buyLink": "https://www.alib.ru/5_istoriya_otechestva_1150_let_rossijskoj_gosudarstvennosti_illyustrirovannoe_izdanie_w1t27980bbb525198f133bd4118192b51d988f1.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff56c67626c696a636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Носовский Г.В., Фоменко А.Т. Русь. Подлинная история",
-    "price": "1000 руб.",
-    "buyLink": "https://www.alib.ru/5_nosovskij_g_v_fomenko_a_t_rusnmn_podlinnaya_istoriya_w1t279827cf426e5331e1251100ae109e144cd5.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff364616ffa6767666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Сперансов Н.Н. Земельные гербы России XII - XIX вв.",
+    "title": "Хайям Омар. Рубайат.",
     "price": "800 руб.",
-    "buyLink": "https://www.alib.ru/5_speransov_n_n_zemelnmnnye_gerby_rossii_xii_xix_vv_w1t2798ae9d78840dd07ef5ac003c3749dbbd84.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dffff9656ffa686c636166606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
+    "buyLink": "https://www.alib.ru/5_hajyam_omar_rubajat_w1t2798fefff5674f71682346e92f60493353ca.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d3676e5ff86561686d5e566f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
   },
   {
-    "title": "Верман Карл. История искусства всех времен и народов. В трех томах. Том 1.",
-    "price": "1000 руб.",
-    "buyLink": "https://www.alib.ru/5_verman_karl_istoriya_iskusstva_vseh_vremen_i_narodov_v_treh_tomah_tom_1_w1t2798d1a6a64c7fdf80f333b7fc9dcd2fd89d.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff76c6ffe576c67666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Верман Карл. История искусства всех времен и народов. Том 2. Европейское искусство средних веков.",
-    "price": "700 руб.",
-    "buyLink": "https://www.alib.ru/5_verman_karl_istoriya_iskusstva_vseh_vremen_i_narodov_tom_2_evropejskoe_iskusstvo_srednih_vekov_w1t2798a92f00cf6a2188f79e28ae2e345c31a2.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff26c666d5d6b67666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Челидзе Вахтанг. Исторические хроники Грузии. XI - XII.",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_chelidze_vahtang_istoricheskie_hroniki_gruzii_xi_xii_w1t2798174b940afb27cd54ab4e2e4a94a3de53.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff868626ff66466686265606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Ляпин Е.С. Динамика цивилизаций.",
-    "price": "700 руб.",
-    "buyLink": "https://www.alib.ru/5_lyapin_e_s_dinamika_civilizacij_w1t27982717f7969da1e03e6d76022c93a57ad7.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff067636669646b636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Орнамент всех времен и стилей в 2-х томах. 1. Античное искусство, искусство Азии, Средние века. 2. Средневековое искусство, Ренессанс. XVII - XIX века.",
-    "price": "4500 руб.",
-    "buyLink": "https://www.alib.ru/5_ornament_vseh_vremen_i_stilej_v_2_h_tomah_1_antichnoe_iskusstvo_iskusstvo_azii_srednie_w1t279862814d82b524e68cf18c8a3322be21bf.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff66c66626c6667666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Символизм в России. Каталог.",
+    "title": "Белинский В.Г. Сочинения Белинского В.Г. в пяти томах в 2-х переплетах.",
     "price": "2000 руб.",
-    "buyLink": "https://www.alib.ru/5_simvolizm_v_rossii_katalog_w1t27982b2824ad38f43328fa29410423bebf59.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff268636266656b636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
+    "buyLink": "https://www.alib.ru/5_belinskij_v_g_sochineniya_belinskogo_v_g_v_pyati_tomah_v_2_h_perepletah_w1t2798500fe2bc17ce7f22e965940a0334cfd6.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d3666953606569566ffe576f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
   },
   {
-    "title": "Атанов В.С. Акварельная живопись на пленэре.",
-    "price": "2000 руб.",
-    "buyLink": "https://www.alib.ru/5_atanov_v_s_akvarelnmnnaya_zhivopisnmn_na_plenqre_w1t2798b9e776edf7f223f70e9c0fd283b0064a.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dffffb65616b6c67666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
+    "title": "Никифоров-Волгин В.А. Мягкий свет детства: Избранное.",
+    "price": "300 руб.",
+    "buyLink": "https://www.alib.ru/5_nikiforov_volgin_v_a_myagkij_svet_detstva_izbrannoe_w1t279841010c0e36149ff0b072e75a297cec16.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36b6a5ff5696b5363695ff66ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
   },
   {
-    "title": "Карнач П. А. Евгений Чемодуров.",
-    "price": "600 руб.",
-    "buyLink": "https://www.alib.ru/5_karnach_p_a_evgenij_chemodurov_w1t279842efd8ef9c0cd4df9baa962e2585f01f.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff36666626a6d6b636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Прытков В.А. Николай Александрович Ярошенко.",
+    "title": "Антология мировой детской литературы. В 8 томах. Том 8. Ф - Я.",
     "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_prytkov_v_a_nikolaj_aleksandrovich_yaroshenko_w1t2798527fa537b97bc9cb616fde996e3cd5da.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dffffb61666c6d6f676265606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
+    "buyLink": "https://www.alib.ru/5_antologiya_mirovoj_detskoj_literatury_v_8_tomah_tom_8_f_ya_w1t27984bd9d18562988989eccbab5074790153.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d3696b52666360686d5e566f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
   },
   {
-    "title": "Рид Герберт. Краткая история современной живописи.",
-    "price": "1500 руб.",
-    "buyLink": "https://www.alib.ru/5_rid_gerbert_kratkaya_istoriya_sovremennoj_zhivopisi_w1t2798ad61c333cf06375452153d0c88b5d7cf.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff06962616e6a6b636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Здориков А.К. Переплетное дело.",
-    "price": "1500 руб.",
-    "buyLink": "https://www.alib.ru/5_zdorikov_a_k_perepletnoe_delo_w1t2798851ef843a38eeec815090651baf69c95.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff165666d596468666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Символы и награды Российской державы.",
-    "price": "1000 руб.",
-    "buyLink": "https://www.alib.ru/5_simvoly_i_nagrady_rossijskoj_derzhavy_w1t2798954120039ce52c1a3050805d81b4259b.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dffffa606d5a686c636166606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Крым в русской поэзиии искусстве.",
-    "price": "700 руб.",
-    "buyLink": "https://www.alib.ru/5_krym_v_russkoj_poqziii_iskusstve_w1t27984eefa774b34b82a0baa99ff6264eb456.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff067656e5e6768666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Венгерско-русский словарь.",
-    "price": "900 руб.",
-    "buyLink": "https://www.alib.ru/5_vengersko_russkij_slovarnmn_w1t27986f24c671e29eb929c54841c32e4df9be.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff16863656d6d6f676265606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Виноградов В.В. Стиль Пушкина.",
-    "price": "1500 руб.",
-    "buyLink": "https://www.alib.ru/5_vinogradov_v_v_stilnmn_pushkina_w1t27984dee5f4c4ca35fdb9384fba023400fdd.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff2636ff46e666b636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Мангель А. Гомер.Илиада и Одиссея.",
-    "price": "800 руб.",
-    "buyLink": "https://www.alib.ru/5_mangelnmn_a_gomer_iliada_i_odisseya_w1t2798b35a431aaed1104376a1d152f8505ecb.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff465636ff96767676561606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Набоков Владимир. Лекции по зарубежной литературе.",
-    "price": "1000 руб.",
-    "buyLink": "https://www.alib.ru/5_nabokov_vladimir_lekcii_po_zarubezhnoj_literature_w1t2798565dd20b10a8533565b0b9ed586f8285.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dffffa60626e6d6f676265606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Фролов Д.В. О ранних стихах Осипа Мандельштама.",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_frolov_d_v_o_rannih_stihah_osipa_mandelnmnshtama_w1t27988204ac765bc4b3a3bc941bb4d3db7947.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff26466606b6a6a636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Гайдук Дм. Энциклопедия предсказаний.",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_gajduk_dm_qnciklopediya_predskazanij_w1t279869a1e22a7fc0efca8328a4198125bb79.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff46462656d656b636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Чернобров В. А. Энциклопедия загадочных мест России.",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_chernobrov_v_a_qnciklopediya_zagadochnyh_mest_rossii_w1t2798e21f6eede6d5af23072e4cb9bea21f5b.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff4646462686967666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Чернобров Вадим. Энциклопедия загадочных мест мира.",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_chernobrov_vadim_qnciklopediya_zagadochnyh_mest_mira_w1t27985872ec0460b10cbfa4260bdf20e186ce.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff66a6063676867666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Географический атлас офицера.",
-    "price": "2500 руб.",
-    "buyLink": "https://www.alib.ru/5_geograficheskij_atlas_oficera_w1t27980a01d491539944985d982b985d9a7738.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff569686ffa6b67666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Шпектор А.В., Васильева Е.Ю. Кардиология.",
-    "price": "2000 руб.",
-    "buyLink": "https://www.alib.ru/5_shpektor_a_v_vasilnmneva_e_yu_kardiologiya_w1t2798321a5513c8e1e7860032e687645b3e16.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff76568616a686c636166606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Недошивин Вячеслав. Адреса любви: Москва, Петербург, Париж. Дома и домочадцы русской литературы.",
-    "price": "2000 руб.",
-    "buyLink": "https://www.alib.ru/5_nedoshivin_vyacheslav_adresa_lyubvi_moskva_peterburg_parizh_doma_i_domochadcy_russkoj_literatury_w1t27988fbb2c177c4dce5dd1e2249c40989724.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff46c676d596768666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Пуанкаре Р. На службе Франции 1914 - 1915 и 1915 -1916. В 2-х томах",
-    "price": "600 руб.",
-    "buyLink": "https://www.alib.ru/5_puankare_r_na_sluzhbe_francii_1914_1915_i_1915_1916_v_2_h_tomah_w1t27989067fa02a0c246f2a0843e260e5d719f.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dffffa64656e6967666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Храмов И.В. Русская душа `Белой розы`.",
-    "price": "700 руб.",
-    "buyLink": "https://www.alib.ru/5_hramov_i_v_russkaya_dusha_beloj_rozy_w1t27985890071d84437dc4f5007ab8563e14ac.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff76a6ff4656767666364606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Юсупов Ф.Ф. Мемуары в двух книгах. До изгнания. 1887-1919. В изгнании.",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_yusupov_f_f_memuary_v_dvuh_knigah_do_izgnaniya_1887_1919_v_izgnanii_w1t2798fb02a18a92bb49231a901e8dbb0b16fa.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dffff86ffffc6d6f676265606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Васильев Александр. Этюды о моде и стиле.",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_vasilnmnev_aleksandr_qtyudy_o_mode_i_stile_w1t2798bcdb348a137a67867d8c68a68a23d5ab.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff76963646d69676ff762606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Зайцев Борис. Дни.",
-    "price": "1000 руб.",
-    "buyLink": "https://www.alib.ru/5_zajcev_boris_dni_w1t2798c55896d7d65c4a98c14ad9e2cbdf264d.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff46465656b6d6f676265606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Ильинский И.М. И. Бунин - `буревестник` революции.",
-    "price": "1000 руб.",
-    "buyLink": "https://www.alib.ru/5_ilnmninskij_i_m_i_bunin_burevestnik_revolyucii_w1t279895d910464cdcc723fb8355e01ef4c2e8.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dffff768666a6b68686265606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Нагибин Ю.М. О любви. Слезы и жизнь...",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_nagibin_yu_m_o_lyubvi_slezy_i_zhiznnmn_w1t2798e383fc8b705e0d9fcc76ba0524414a85.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff66b6ffe5d646b636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Набоков В.В. Собрание сочинений американского периода в 5 томах. Т.3: Пнин: Роман. Рассказы. Бледное пламя: Роман. Из интервью.",
-    "price": "1500 руб.",
-    "buyLink": "https://www.alib.ru/5_nabokov_v_v_sobranie_sochinenij_amerikanskogo_perioda_v_5_tomah_t_3_pnin_roman_rasskazy_blednoe_w1t2798d11c994b9dfcf01cae221a4a711a24d2.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff464666d566d6b636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Набоков Владимир. Собрание сочинений американского периода.Т.1.Подлинная жизнь Себастьяна Найта.Под знаком незаконнорожденных.Николай Гоголь.",
-    "price": "1500 руб.",
-    "buyLink": "https://www.alib.ru/5_nabokov_vladimir_sobranie_sochinenij_amerikanskogo_perioda_t_1_podlinnaya_zhiznnmn_sebastnmnyana_najta_pod_z_w1t27982cf08bc066577811a501ae8ab63086a0.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff06b65616b6c6b636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Лосев А.Ф. История античной эстетики. Ранний эллинизм.",
-    "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_losev_a_f_istoriya_antichnoj_qstetiki_rannij_qllinizm_w1t279882e0befcb274bc120dfbdfbe32d9edbb.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff46966616c69676ff762606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Зеньковский В.В. Христианская философия.",
-    "price": "800 руб.",
-    "buyLink": "https://www.alib.ru/5_zennmnkovskij_v_v_hristianskaya_filosofiya_w1t2798c0106bf118ece4268529737e5afb8dc8.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff468606d5c69676ff762606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
-  },
-  {
-    "title": "Шаганов А. А. Там за туманами.",
+    "title": "Антология мировой детской литературы. Т.4. К-Л.",
     "price": "400 руб.",
-    "buyLink": "https://www.alib.ru/5_shaganov_a_a_tam_za_tumanami_w1t2798e59fdf341ba299a322b6bb5125fe6dc9.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff064666d556667676561606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
+    "buyLink": "https://www.alib.ru/5_antologiya_mirovoj_detskoj_literatury_t_4_k_l_w1t2798617e9dd1c4a24905391d655c64c5cda8.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36d6ff26ffa60686d5e566f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
   },
   {
-    "title": "Тихомиров Л.А. Критика демократии. Статьи из журнала `Русское обозрение` 1892-1897 гг.",
-    "price": "750 руб.",
-    "buyLink": "https://www.alib.ru/5_tihomirov_l_a_kritika_demokratii_statnmni_iz_zhurnala_russkoe_obozrenie_1892_1897_gg_w1t2798c0a62e8445d1d01cb4738a6cdcba7cca.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff86c6566676c6b636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
+    "title": "Антология мировой детской литературы. Т.6. Р-С.",
+    "price": "400 руб.",
+    "buyLink": "https://www.alib.ru/5_antologiya_mirovoj_detskoj_literatury_t_6_r_s_w1t2798746d330dd65feb2a9a769d441647f76a.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36962646ffa6ff86d5e566f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
   },
   {
-    "title": "Колосов А.А. Книга для внекласного чтения по математике в старших классах.",
+    "title": "Антология мировой детской литературы. Том 1.",
+    "price": "400 руб.",
+    "buyLink": "https://www.alib.ru/5_antologiya_mirovoj_detskoj_literatury_tom_1_w1t2798e7fa65891750c47af749057cb22f4c3b.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36d616ff56660686d5e566f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Гэллико Пол. Томасина.",
+    "price": "350 руб.",
+    "buyLink": "https://www.alib.ru/5_gqlliko_pol_tomasina_w1t279884ee8a2e6301f59ea0620475ad3f480b.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36a6b56656569536d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Прокопьев Д. В. Художественные промысла Горьковской области.",
+    "price": "800 руб.",
+    "buyLink": "https://www.alib.ru/5_prokopnmnev_d_v_hudozhestvennye_promysla_gornmnkovskoj_oblasti_w1t27986ec2d834f40b9bdff0b1abaa211e8e6f.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d3666ffff36360626d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Стивенсон Р.Л. Собрание сочинений в 6 томах. Тома 2-6",
+    "price": "1000 руб.",
+    "buyLink": "https://www.alib.ru/5_stivenson_r_l_sobranie_sochinenij_v_6_tomah_toma_2_6_w1t2798ec5322674086b6b75e43cb6a06f0bc73.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d3656c5060696ff26d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Поспеловский Д.В. Русская Православная Церковь в ХХ веке.",
+    "price": "300 руб.",
+    "buyLink": "https://www.alib.ru/5_pospelovskij_d_v_russkaya_pravoslavnaya_cerkovnmn_v_hh_veke_w1t2798d44ce7b296b92e110359efb61add43e3.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d3676d53636468536d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Матвеев Н. Москва и жизнь в ней накануне нашествия 1812 г.",
+    "price": "6000 руб.",
+    "buyLink": "https://www.alib.ru/5_matveev_n_moskva_i_zhiznnmn_v_nej_nakanune_nashestviya_1812_g_w1t27983beef40af2fb9047a55cd66ab66c1cd5.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36d6d5ff4666d576ffff66f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Скульптура малых форм. Графика.",
+    "price": "1500 руб.",
+    "buyLink": "https://www.alib.ru/5_skulnmnptura_malyh_form_grafika_w1t27989d4008adf8ee30f27f2954b7c151cd5d.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36e695ff0646ff86d5e566f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Язык и личность.",
     "price": "500 руб.",
-    "buyLink": "https://www.alib.ru/5_kolosov_a_a_kniga_dlya_vneklasnogo_chteniya_po_matematike_v_starshih_klassah_w1t2798db449ec47018330013a861af597e1269.html",
-    "photoHref": "https://www.alib.ru/foto.php4?id=691286&url=3c4d3dff46962666c6b6b636463606b6c6663a36655decac8c0c3aff655d2d9c8cdc7cdc5a95b52ddcb54c7c5d9ce5accd8dac1a46150b95353796e48d4d7d7d4c"
+    "buyLink": "https://www.alib.ru/5_yazyk_i_lichnostnmn_w1t2798fe322466a9b4ab083f9f4c5f72c35ea3.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36b6a55606168536d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Радчук Е.Е. Альдебаран - звездная предистория человечества.",
+    "price": "300 руб.",
+    "buyLink": "https://www.alib.ru/5_radchuk_e_e_alnmndebaran_zvezdnaya_predistoriya_chelovechestva_w1t2798c4adf69190eb3e7c31b5b00d68c58572.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d367695d56616a5363695ff66ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Главный военный госпиталь ВС СССР имени академика Н.Н. Бурденко: Сборник научных работ",
+    "price": "5000 руб.",
+    "buyLink": "https://www.alib.ru/5_glavnyj_voennyj_gospitalnmn_vs_sssr_imeni_akademika_n_n_burdenko_sbornik_nauchnyh_rabot_w1t2798258410cdd352ce68b0ec5ffdc00ed170.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36d695ff06768566b5ff66f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Козаков М.Э., Козаков М.М. Три-Михаила-Три.",
+    "price": "500 руб.",
+    "buyLink": "https://www.alib.ru/5_kozakov_m_q_kozakov_m_m_tri_mihaila_tri_w1t2798409c1112d89707281e64b20fdd6d9cdd.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36d626563656a5363695ff66ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Ходасевич Владислав. Некрополь.",
+    "price": "500 руб.",
+    "buyLink": "https://www.alib.ru/5_hodasevich_vladislav_nekropolnmn_w1t2798db97a49e2290ccecbf4fc25381af329b.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36a6e5563656ff26d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Родионенко Г.И. Ирисы.",
+    "price": "300 руб.",
+    "buyLink": "https://www.alib.ru/5_rodionenko_g_i_irisy_w1t279866f7eb0f6486ed55f01590648ea56b92.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36a616e52656b5363695ff66ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Бешлягэ В. Боль.",
+    "price": "300 руб.",
+    "buyLink": "https://www.alib.ru/5_beshlyagq_v_bolnmn_w1t27981a554eabdc44405de31b4ec73bb02aa1.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d3686e54686269536d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Том 3. Е-К.",
+    "price": "400 руб.",
+    "buyLink": "https://www.alib.ru/5_tom_3_e_k_w1t2798c5b85b4870b6eec95496a2091b6945b4.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d368616361616e586c5ff66f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Беглов А.Л, Саплина Е.В.и др Основы духовно-нравственной культуры народов России. Основы религиозных культур и светской этики.Основы мировых религиозных культур. 4-5 классы: учебник для общеобразовательных учреждений.",
+    "price": "450 руб.",
+    "buyLink": "https://www.alib.ru/5_beglov_a_l_saplina_e_v_i_drosnovy_duhovno_nravstvennoj_kulnmntury_narodov_rossii_osnovy_religioznyh_w1t2798f73684755ca41a74b41a2cb8ac455cc3.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36d695ff6626b5363695ff66ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Асмус В.Ф. Избранные философские труды. В 2-х томах.",
+    "price": "800 руб.",
+    "buyLink": "https://www.alib.ru/5_asmus_v_f_izbrannye_filosofskie_trudy_v_2_h_tomah_w1t2798d03bfd65e190e7f48ce0d40b6d01d657.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d3656d55686960626d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Муравьев А.В. Основы духовно-нравственной культуры народов России. Основы религиозных культур и светской этики. Основы православной культуры. 4 класс. Учебник.",
+    "price": "450 руб.",
+    "buyLink": "https://www.alib.ru/5_muravnmnev_a_v_osnovy_duhovno_nravstvennoj_kulnmntury_narodov_rossii_osnovy_religioznyh_kulnmntur_i_svets_w1t27980483779bdafe56e9ee3c4d6156e31002.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d3686a5361696a5363695ff66ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Запорожец А. В. Избранные психологические труды. В двух томах. Том1: Психическое развитие ребенка, Том2: Развитие произвольных движений.",
+    "price": "500 руб.",
+    "buyLink": "https://www.alib.ru/5_zaporozhec_a_v_izbrannye_psihologicheskie_trudy_v_dvuh_tomah_tom1_psihicheskoe_razvitie_rebenka_to_w1t2798bd6561751e46835db013a679b9f71841.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d3686c55626869536d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Зорин П.Г., Зорин Я.П. Гипнотизм и психология общения.",
+    "price": "500 руб.",
+    "buyLink": "https://www.alib.ru/5_zorin_p_g_zorin_ya_p_gipnotizm_i_psihologiya_obweniya_w1t2798ede6fe49865f03913cc02b85709ea847.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36b6b5ff76668536d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Рассказы о Таджикистане.",
+    "price": "500 руб.",
+    "buyLink": "https://www.alib.ru/5_rasskazy_o_tadzhikistane_w1t27982897f1edda256d6ed2d8c9de094a495a.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36e6a5e51676ff86d5e566f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Основы морского судовождения.",
+    "price": "500 руб.",
+    "buyLink": "https://www.alib.ru/5_osnovy_morskogo_sudovozhdeniya_w1t2798a6cc4d6f0b9b60738acf240053a27000.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36b616d576660626d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Нечаев Сергей Ю. Русская Ницца.",
+    "price": "350 руб.",
+    "buyLink": "https://www.alib.ru/5_nechaev_sergej_yu_russkaya_nicca_w1t279854612721fab9c7f317465aaa26cab04f.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d3676e53636761626d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Жизнеописания трубадуров. Жан де Нострдам. Жизнеописания ...",
+    "price": "650 руб.",
+    "buyLink": "https://www.alib.ru/5_zhizneopisaniya_trubadurov_zhan_de_nostrdam_zhizneopisaniya_w1t27982a64e118a8fd9096fb6b6b4976370da8.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36e616d5ff961686d5e566f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Огнестрельное оружие.",
+    "price": "500 руб.",
+    "buyLink": "https://www.alib.ru/5_ognestrelnmnnoe_oruzhie_w1t279807f4954df5959cdd0d52f59c021417bc.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d3656950656361626d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Габриэль де Тард. Преступник и преступление. Сравнительная преступность. Преступления толпы",
+    "price": "1000 руб.",
+    "buyLink": "https://www.alib.ru/5_gabriqlnmn_de_tard_prestupnik_i_prestuplenie_sravnitelnmnnaya_prestupnostnmn_prestupleniya_tolpy_w1t279875264aa25abee42726a050b5b7374d55.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36d6c5e586a6e586d5e566f6e5d6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
+  },
+  {
+    "title": "Грин Грэм. Наш человек в Гаване.",
+    "price": "500 руб.",
+    "buyLink": "https://www.alib.ru/5_grin_grqm_nash_chelovek_v_gavane_w1t27985770afb0ab9a794ddb2a30ed6400d464.html",
+    "photoHref": "https://www.alib.ru/foto.php4?id=954192&url=cc6d1d36d616e566968536d5b5e566ffd6d56a7645ad6dbcecccdae515dd0dbcdc1d4c1d3ac5258d5d65fb7c0dacb50d6ddcacba46a52a95e4e616859d7d2d5ddc"
   },
   {
     "title": "·",
