@@ -9,6 +9,7 @@ const app = express();
 const PORT = 8000;
 const BOOKS_FILE = "./books.json";
 const CACHE_TTL = 30 * 60 * 1000; // 30 минут
+const photoCache = {};
 
 app.use(cors());
 app.use(express.static(".."));
@@ -59,7 +60,7 @@ function saveBooksToFile(books) {
   console.log(`Сохранили ${books.length} книг в books.json`);
 }
 
-// ===== скрейпер =====
+// ==== скрейпер =====
 
 async function scrapeBooks() {
   const browser = await puppeteer.launch({
@@ -108,13 +109,13 @@ async function scrapeBooks() {
 
 app.get("/api/books", async (req, res) => {
   try {
-    // 1. сначала пробуем взять из файла
+    // 1. сначала пробуем взять из джейсона
     const cachedBooks = loadBooksFromFile();
     if (cachedBooks) {
       return res.json({ books: cachedBooks });
     }
 
-    // 2. если файла нет — парсим
+    // 2. если нет — парсим
     console.log("Кеша нет, идем на alib");
     const books = await scrapeBooks();
 
@@ -132,13 +133,21 @@ app.get("/api/books", async (req, res) => {
 app.get("/api/photo", async (req, res) => {
   const { url } = req.query;
 
+  res.setHeader("Cache-Control", "public, max-age=86400"); //кэш фоток в браузере
+
   if (!url) {
     console.log("Фотка: нет url");
     return res.json({ photoLink: "" });
   }
 
+   // 1. Проверяем кэш
+   if (photoCache[url]) {
+    console.log("Фото из кэша");
+    return res.json({ photoLink: photoCache[url] });
+  }
+
   try {
-    console.log("Пробуем вытащить фотку");
+    console.log("Ищем фото на сайте");
 
     const resp = await fetch(url);
     const html = await resp.text();
@@ -149,16 +158,17 @@ app.get("/api/photo", async (req, res) => {
     if (meta) {
       const match = meta.match(/URL=(.+)$/i);
       if (match) {
-        console.log("Фотка найдена");
-        return res.json({ photoLink: match[1].trim() });
+        const photoLink = match[1].trim();
+
+        // 2. Сохраняем в кэш
+        photoCache[url] = photoLink;
+
+        return res.json({ photoLink });
       }
     }
 
-    console.log("Фотка не найдена");
     res.json({ photoLink: "" });
-
   } catch (e) {
-    console.log("Ошибка при загрузке фотки");
     res.json({ photoLink: "" });
   }
 });
